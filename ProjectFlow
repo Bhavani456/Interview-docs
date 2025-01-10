@@ -1,0 +1,9 @@
+Azure Data Integration for Subscription Analytics:
+
+*In this project, I designed and implemented an end-to-end data pipeline for subscription analytics on the Azure platform.
+•	Data Ingestion: We started by ingesting subscription data from various sources, (Various internal and external systems containing subscription data (e.g., CRM, billing systems, customer databases).including databases and files, into Azure Data Lake Storage (ADLS) Gen2 using Azure Data Factory.
+•	Data Transformation: Subsequently, I leveraged PySpark within Azure Databricks to perform complex data transformations. This included data cleansing, enrichment, and aggregation to prepare the data for analysis.
+•	Data Storage: The processed data was then stored back in ADLS Gen2 in a curated format, ready for consumption by downstream applications.
+•	Data Consumption: This data was then used for various purposes such as: 
+o	Business Intelligence: Feeding into BI tools for interactive dashboards and reporting.
+o	Machine Learning: Training predictive models for churn analysis and customer lifetime value.
