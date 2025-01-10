@@ -1,0 +1,9 @@
+
+Azure Data Warehouse Modernization
+
+I played a key role in this project, focusing on the development and implementation of scalable ETL workflows using Azure Data Factory to orchestrate the movement of data from on-premises sources to Azure Synapse. I implemented robust error handling and retry mechanisms within these pipelines to ensure data delivery reliability and minimize downtime. Furthermore, I created optimized data models within Synapse Analytics to improve query performance and overall system efficiency.
+This project successfully modernized our data warehouse, enabling faster insights, improved business agility, and a more cost-effective data platform."
+
+Real-Time Inventory Dashboard 
+"In Project 3 for a retail client, I designed and implemented a real-time inventory management dashboard. I integrated data from multiple sources into ADLS using Azure Data Factory, developed PySpark jobs in Databricks to preprocess large volumes of data for daily and real-time analytics, and established efficient data partitioning and clustering strategies to improve query performance. To enhance development efficiency, I built reusable templates for ADF pipelines, resulting in a 40% reduction in development time. Finally, I monitored data pipeline performance using Azure Monitor and implemented optimizations to reduce costs."
+
